@@ -1,7 +1,0 @@
-﻿  FifteenPuzzle.cpp
-C:\Users\82105\Desktop\Week4_Homework_1\week4_homework_2\WEEK4_homework_2_final\WEEK4_homework_2_final\FifteenPuzzle.cpp(23,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  Puzzlemain.cpp
-C:\Users\82105\Desktop\Week4_Homework_1\week4_homework_2\WEEK4_homework_2_final\WEEK4_homework_2_final\Puzzlemain.cpp(4,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
-  Ranking.cpp
-  코드를 생성하고 있습니다...
-  WEEK4_homework_2_final.vcxproj -> C:\Users\82105\Desktop\Week4_Homework_1\week4_homework_2\WEEK4_homework_2_final\x64\Debug\WEEK4_homework_2_final.exe
