@@ -1,0 +1,65 @@
+﻿//행맨 화면
+ +---+	
+ |    >o<	
+ |    	
+ |    >o<	
+ |    	
+ |    >o< 	
+ |  Cheer up!! 	
+7+-------
+ +---+	
+ |    >o<	
+ |   	
+ |    	
+ |    	
+ |    >o<	
+ |  Do not depressed!!		
+6+-------
+ +---+	
+ |    >o<	
+ |   	
+ |     	
+ |    	
+ |  	
+ |  Do not give up!!		
+5+-------
+ +---+	
+ |   o_o 	
+ |   	
+ |   o_o    	
+ |    	
+ |   o_o 	
+ |  I think you have to careful......		
+4+-------
+ +---+	
+ |    o_o	
+ |   	
+ |    o_o	
+ |    	
+ |    	
+ |  please...... Do not waste your chance......		
+3+-------
+ +---+	
+ |    o_o	
+ |   	
+ |     	
+ |    	
+ |   	
+ |  FEEL THE FEAR 		
+2+-------
+ +---+	
+ |    	
+ |   	
+ |     	
+ |    	
+ |     	
+ |  YOUR LAST CHANCE		
+1+-------
+ +---+	
+ |   |	
+ |   O	
+ |  /|\	
+ |   |	
+ |  / \	
+ |  HAVE A GOOD DAY  		
+0+-------
