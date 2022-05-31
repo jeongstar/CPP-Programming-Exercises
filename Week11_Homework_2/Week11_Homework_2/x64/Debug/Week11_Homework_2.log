@@ -1,0 +1,3 @@
+﻿  timemanagement.cpp
+C:\Users\82105\Desktop\Week11_Homework_2\Week11_Homework_2\Week11_Homework_2\timemanagement.cpp(93,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  Week11_Homework_2.vcxproj -> C:\Users\82105\Desktop\Week11_Homework_2\Week11_Homework_2\x64\Debug\Week11_Homework_2.exe
